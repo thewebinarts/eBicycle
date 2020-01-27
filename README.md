@@ -1,8 +1,8 @@
 #eBicycle
 
-This is a project prototype for our populations around the world where we have
-some issues with our environment. So we work on some solutions for help this peoples 
-who care about environment...
+This is a web project prototype for our populations around the world where we have
+need to increase the usage of the eco-energy. So we work on some solutions for help this peoples, 
+who wants to be involved to this plan and care about our environment...
 
 
 

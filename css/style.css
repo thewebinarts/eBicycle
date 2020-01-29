@@ -1,0 +1,43 @@
+/* -- CUSTOM CSS -- */
+
+section.services-section, section.products-section{
+  padding: 5rem 0 !important;
+}
+
+h3.title-lv3{
+  margin-top: 16px;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+div.title-parallax-effect{
+  padding: 5% 0;
+}
+
+header, header:before{
+  background: 50% 50% / cover !important;
+}
+
+header::before{
+  display: block !important;
+  position: absolute !important;
+  content: "" !important;
+  left: 0 !important;
+  right: 0 !important;
+  top: 0 !important;
+  bottom: 0 !important;
+  background-image: url("../img/banner_home.jpg") !important;
+  background-position: center center 0 !important;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+  transform-origin: center center 0 !important;
+  transform: translateZ(-1px) scale(1) !important;
+  z-index: -1 !important;
+  min-height: 110vh !important;
+ }
